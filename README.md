@@ -1,4 +1,4 @@
-# test-project
+# BT 3103 Zi Char
 
 ## Project setup
 ```
